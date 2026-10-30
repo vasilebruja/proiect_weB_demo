@@ -1,8 +1,8 @@
 # Proiectul-web-demo 
 
-# ooo
-## ooo
-### ooo
-#### ooo
-##### ooo
-###### ooo
+# Cel mai mic
+## Un pic mai mare
+### Mai mare
+#### Si mai mare
+##### Miciuni, totui inversat
+###### :p
